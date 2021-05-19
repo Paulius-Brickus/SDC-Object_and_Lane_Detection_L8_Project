@@ -13,6 +13,8 @@
 #        - www.docs.opencv.org
 #        - https://pysource.com/
 #        - Murtaza Hassan
+#        - stopsign cascade 
+#        - harr cascade for car
 #        
 # Links:
 #     - https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi
@@ -22,6 +24,9 @@
 #     - https://www.docs.opencv.org/master/da/d22/tutorial_py_canny.html
 #     - https://pysource.com/2018/03/07/lines-detection-with-hough-transform-opencv-3-4-with-python-3-tutorial-21/
 #     - https://www.murtazahassan.com
+#     - https://github.com/markgaynor/stopsigns/blob/master/stopsign_classifier.xml
+#     - https://github.com/andrewssobral/vehicle_detection_haarcascades/blob/master/cars.xml
+
 import cv2
 import numpy as np
 from numpy import asarray
